@@ -12,4 +12,8 @@ DNS:
 80.80.80.80
 80.80.81.81
 
+<<<<<<< HEAD
 Dominio vai ser colocado no ar.
+=======
+Colocar dominio no ar...
+>>>>>>> e4bfa12c31767cbcbfc81ee2eb76f7474d1f436a
