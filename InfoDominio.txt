@@ -11,3 +11,5 @@ Your Order Number is: 5519079085
 DNS:
 80.80.80.80
 80.80.81.81
+
+Dominio vai ser colocado no ar.
